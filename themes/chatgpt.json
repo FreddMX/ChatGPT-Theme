@@ -6,7 +6,9 @@
     "editor.lineHeight": 24,
     "editor.letterSpacing": 0.4,
     "editor.fontLigatures": true,
-    "workbench.colorCustomizations": {
+    "name": "ChatGPT Theme",
+    "type": "dark",
+    "colors": {
         "editor.background": "#000000",
         "editor.foreground": "#FFFFFF",
         "sideBar.background": "#000000",
@@ -47,60 +49,58 @@
         "debugToolBar.background": "#000000",
         "panel.background": "#000000"
     },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": [
-                    "comment",
-                    "punctuation.definition.comment"
-                ],
-                "settings": {
-                    "fontStyle": "italic",
-                    "foreground": "#f07ab5"
-                }
-            },
-            {
-                "scope": [
-                    "keyword",
-                    "storage",
-                    "storage.type",
-                    "storage.modifier"
-                ],
-                "settings": {
-                    "foreground": "#C586C0"
-                }
-            },
-            {
-                "scope": [
-                    "constant.numeric",
-                    "constant.language",
-                    "constant.character",
-                    "constant.other"
-                ],
-                "settings": {
-                    "foreground": "#D19A66"
-                }
-            },
-            {
-                "scope": [
-                    "string",
-                    "string keyword"
-                ],
-                "settings": {
-                    "foreground": "#98C379"
-                }
-            },
-            {
-                "scope": [
-                    "variable",
-                    "variable.parameter",
-                    "entity.name.variable"
-                ],
-                "settings": {
-                    "foreground": "#EB3C54"
-                }
+    "tokenColors": [
+        {
+            "scope": [
+                "comment",
+                "punctuation.definition.comment"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#f07ab5"
             }
-        ]
-    }
+        },
+        {
+            "scope": [
+                "keyword",
+                "storage",
+                "storage.type",
+                "storage.modifier"
+            ],
+            "settings": {
+                "foreground": "#C586C0"
+            }
+        },
+        {
+            "scope": [
+                "constant.numeric",
+                "constant.language",
+                "constant.character",
+                "constant.other"
+            ],
+            "settings": {
+                "foreground": "#D19A66"
+            }
+        },
+        {
+            "scope": [
+                "string",
+                "string keyword"
+            ],
+            "settings": {
+                "foreground": "#98C379"
+            }
+        },
+        {
+            "scope": [
+                "variable",
+                "variable.parameter",
+                "entity.name.variable"
+            ],
+            "settings": {
+                "foreground": "#EB3C54"
+            }
+        }
+    ]
 }
     
