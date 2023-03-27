@@ -6,6 +6,7 @@
     "editor.lineHeight": 24,
     "editor.letterSpacing": 0.4,
     "editor.fontLigatures": true,
+    "$schema": "vscode://schemas/color-theme",
     "name": "ChatGPT Theme",
     "type": "dark",
     "colors": {
@@ -17,7 +18,8 @@
         "activityBar.foreground": "#d6eec6",
         "activityBarBadge.background": "#98C379",
         "activityBarBadge.foreground": "#000000",
-        "list.hoverBackground": "#5d5981",
+        "list.hoverBackground": "#6a8159",
+        "list.hoverForeground": "#ffffff",
         "list.activeSelectionBackground": "#4d5746",
         "list.inactiveSelectionBackground": "#4d5746",
         "list.focusOutline": "#4d5746",
@@ -95,7 +97,7 @@
             "scope": [
                 "variable",
                 "variable.parameter",
-                "entity.name.variable"
+                "entity.name.variable",
             ],
             "settings": {
                 "foreground": "#EB3C54"
