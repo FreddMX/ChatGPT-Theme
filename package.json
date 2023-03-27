@@ -23,10 +23,7 @@
         }
       ]
     },
-    "icon": {
-        "light": "./images/chatgpt-icon-light.png",
-        "dark": "./images/chatgpt-icon-dark.png"
-    },
+    "icon": "./images/icon.png",
     "license": "MIT",
     "keywords": [
       "vscode",
