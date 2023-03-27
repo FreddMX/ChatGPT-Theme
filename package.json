@@ -1,0 +1,42 @@
+{
+    "name": "chatgpt-theme",
+    "displayName": "ChatGPT Theme",
+    "description": "A VS Code theme inspired by ChatGPT's code input panel",
+    "version": "1.60.0",
+    "publisher": "FreddMX",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/FreddMX/ChatGPT-Theme.git"
+    },
+    "engines": {
+      "vscode": "1.50.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+            "label": "ChatGPT",
+            "uiTheme": "vs-dark",
+            "path": "./themes/chatgpt.json"
+        }
+      ]
+    },
+    "icon": {
+        "light": "./images/chatgpt-icon-light.png",
+        "dark": "./images/chatgpt-icon-dark.png"
+    },
+    "license": "MIT",
+    "keywords": [
+      "vscode",
+      "extension",
+      "tema",
+      "chatgpt",
+      "tema chatgpt",
+      "chatgpt tema",
+      "theme chatgpt",
+      "openai theme"
+    ]
+}
+  
