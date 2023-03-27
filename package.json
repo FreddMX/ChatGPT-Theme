@@ -1,9 +1,9 @@
 {
     "name": "chatgpt-theme",
     "displayName": "ChatGPT Theme",
-    "description": "A VS Code theme inspired by ChatGPT's code input panel",
-    "version": "1.60.0",
-    "publisher": "FreddMX",
+    "description": "Un tema para Visual Studio Code inspirado en el panel de entrada de código de ChatGPT",
+    "version": "1.0.0",
+    "publisher": "AlfredoLopez",
     "repository": {
       "type": "git",
       "url": "https://github.com/FreddMX/ChatGPT-Theme.git"
