@@ -18,7 +18,7 @@ Un tema para Visual Studio Code inspirado en el panel de entrada de código de C
 
 1. Prueba la fuente `JetBrains Mono` para mayor elegancia. [Fuente JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 2. Prueba los iconos `Helium Icon Theme` para tener una apariencia mas atractiva. [Iconos Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
-3. Busca y activa las opciones de `Bracket Pair` en el apartado de editor de texto para tener mas legibilidad en el codigo. `Archivo -> Preferencias -> Configuracion`.
+3. Busca y activa las opciones de `Bracket Pair` en `Archivo -> Preferencias -> Configuracion` para tener mas legibilidad al escribir codigo.
 
 ![Configuracion](./images/configuracion.png)
 
