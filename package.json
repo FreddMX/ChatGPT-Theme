@@ -9,7 +9,7 @@
       "url": "https://github.com/FreddMX/ChatGPT-Theme.git"
     },
     "engines": {
-      "vscode": "1.50.0"
+      "vscode": "^1.50.0"
     },
     "categories": [
       "Themes"
